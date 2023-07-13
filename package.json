@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "TraiNguyen"
+	"author": "TraiNguyen",
+	"description": "This is a nodejs project to describe my ability"
 }
