@@ -15,5 +15,6 @@
 	"author": "TraiNguyen",
 	"description": "This is a nodejs project to describe my ability",
 	"keywords": ["freecodecamp","TraiNguyen","nodejs project"],
-	"license": "none"
+	"license": "none",
+	"version": "1.0.0"
 }
