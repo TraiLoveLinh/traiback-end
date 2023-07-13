@@ -13,5 +13,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "TraiNguyen",
-	"description": "This is a nodejs project to describe my ability"
+	"description": "This is a nodejs project to describe my ability",
+	"keywords": ["freecodecamp","TraiNguyen","nodejs project"]
 }
